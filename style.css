@@ -1,0 +1,16 @@
+#container{
+    max-width: 70%;
+    padding-left: 230px;
+}
+p{
+    font-size: 1.5em;
+}
+h1{
+    font-size: 2.5em;
+}
+h3{
+    font-size: 1.5em;
+}
+body{
+    padding-top: 50px;
+}
